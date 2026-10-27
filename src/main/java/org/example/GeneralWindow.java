@@ -34,5 +34,4 @@ public class GeneralWindow extends JFrame {
         setSize(500,500);
         setLocationRelativeTo(null);
     }
-
 }
